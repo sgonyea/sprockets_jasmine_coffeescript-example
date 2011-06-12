@@ -1,0 +1,4 @@
+To use, do:
+
+bundle install
+rake spec
